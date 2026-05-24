@@ -35,8 +35,6 @@ predictive_maintenance_app/
 ## Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/predictive-maintenance-pipeline
-cd predictive_maintenance_app
 pip install -r requirements.txt
 streamlit run app.py
 ```
