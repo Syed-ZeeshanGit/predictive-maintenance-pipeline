@@ -38,12 +38,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Key Engineering Decisions
-
-- **No scikit-learn** — all preprocessing and modelling implemented from scratch using NumPy and SciPy to demonstrate explicit mathematical execution
-- **Physics-based degradation model** — fundamental frequency shifts 10 Hz → 45 Hz as `degradation_factor` increases from 0 → 1, mimicking a bearing defect
-- **Modular, separated concerns** — generator, ingestion, feature engineering, and analytics are fully independent modules with clean interfaces
-- **Mathematical transparency** — the Math tab in the UI shows the LaTeX equation and the source code side-by-side for every model
 
 ## Equations Implemented
 
