@@ -2,7 +2,7 @@
 
 A production-grade, modular Python application demonstrating industrial signal processing, statistical modelling, and reliability engineering — built for deployment via Streamlit.
 
-# Streamlit app <img width="2921" height="811" alt="image" src="https://github.com/user-attachments/assets/f5fc1a38-aad8-49b1-b108-94e2ba423c88" /> : https://predictive-maintenance-pipeline-fajg2in8mkjttxslwtuwzu.streamlit.app/
+# Streamlit app: https://predictive-maintenance-pipeline-fajg2in8mkjttxslwtuwzu.streamlit.app/
 
 
 ## Mathematical Core
