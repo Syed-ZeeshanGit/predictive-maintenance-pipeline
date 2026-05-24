@@ -1,6 +1,7 @@
 # ⚙️ Predictive Maintenance & Fault Diagnostics Pipeline
 
-A production-grade, modular Python application demonstrating industrial signal processing, statistical modelling, and reliability engineering — built for deployment via Streamlit.
+### 🎯 Project Objective
+The objective of this project is to analyze high-frequency, non-stationary industrial IoT sensor telemetry streams to identify early-stage machinery degradation and predict mechanical failure windows. Specifically, the system processes multi-channel streaming parameters—such as vibration, temperature, and acoustic metrics—and filters out baseline operating noise. By transforming these non-stationary signals into deterministic asset health indicators, the platform isolates structural wear patterns, quantifies statistical anomalies, and models continuous operational degradation to compute an asset's Mean Time to Failure (MTTF) and Remaining Useful Life (RUL).
 
 # Streamlit app: https://predictive-maintenance-pipeline-fajg2in8mkjttxslwtuwzu.streamlit.app/
 
